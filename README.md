@@ -118,13 +118,3 @@ This project analyzes **bookings, revenue, customer behavior, vehicle performanc
 
 ---
 
-## 🖼 Screenshots
-
-### Dashboard Overview
-![Dashboard Overview](Home.png)
-
-### Vehicle Analysis
-![Vehicle Analysis](images/vehicle_analysis.png)
-
-### Revenue & Demand Trends
-![Revenue & Demand Trends](images/revenue_demand.png)
